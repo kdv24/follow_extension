@@ -1,0 +1,5 @@
+name = kdv custom site linker
+description = Adds links to various sites.
+package = Custom
+core = 7.x
+files[] = kdv_custom.module
